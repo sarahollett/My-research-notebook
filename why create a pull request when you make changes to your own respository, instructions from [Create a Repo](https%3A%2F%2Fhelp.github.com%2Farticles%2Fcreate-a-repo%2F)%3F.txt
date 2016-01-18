@@ -1,5 +1,6 @@
 why create a pull request when you make changes to your own respository, instructions from [Create a Repo](https://help.github.com/articles/create-a-repo/)?
 ! why are we using in tutoiral command line to make a repository?
-! what's the difference between synching and pushing a repo using command line it says to do in tutorial instructions and synching using the github desktop? are they two different ways to do the same thing?
+! what's the difference between synching and pushing a repo using command line in tutorial instructions and synching using the github desktop? are they two different ways to do the same thing?
 ! when you create a new repo in github, it asks to set up using github desktop or "create a new repository on the command land" or "push an existing respository from the command line". we already set up the repo on the command line. Step: connect your local to your remote in tutorial is same instructions as github gives in "push an existing repository from the command line"
 ! git-it tutorial is frustrating because it does not use github desktop but good to see what is really going on when we create a repo in desktop and then synch to github
+
