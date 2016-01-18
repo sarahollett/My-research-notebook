@@ -1,0 +1,24 @@
+adding vs commiting. commiting-current state, keep a snapchat. adding keeps what you're working on. commit a checkpoint
+
+1. Final Project
+   
+   -value comes out of practice of what you're doing
+   
+   -key idea to reveal mysteries of digital history 
+
+- expert systems: clippy for DH
+
+- to show ppl value of skills, digital history
+
+2. Tutoiral presentation
+- ground in practice, real examples relating to our research. connect to other work
+
+3. Twine as an expert system
+- what do video games actually do? how to play-instruction book, manipulates emotions, investment of first person, interactive
+-a non-human intelligence involved in creation of the story
+-comes with one file embedded as html file. portable, accessible, playing on any device. package it to make an app (google play)
+-do not clean web browser cache. export and save to github repo every day in case you delete everything 
+-you want to explain to students how to do digital history to someone who doesn't have the same resources as us 
+-tie to our research, experiences, where you are coming from. If you're doing digital history, you have a background in actual history
+-philome.la-to publish your twine. provides with a server, unique url
+-email html file as attachment if you don't want it to be public 
