@@ -1,4 +1,4 @@
-#Intro the Zotero API
+#Intro to the Zotero API
 
 First need to download libZotero, a Python module that allows you to interact with Zotero API, with`pip install libZotero`
 
