@@ -30,7 +30,7 @@ Now you can replace `zlib=zotero.Library('group','155975','<null>','9GLmvmZ1K1qG
 This is an interesting way to see the organization of your own metadata or if you wanted to pull sources from a group's or person's Zotero account. However, I wasn't sure if you could just look up the API keys for groups or if you needed to be a member. For example, I wasn't able to find the information they provided in the tutorial (user code and API key) on the Zotero account of Programming Historian example. 
 
 Tutorial 2: Creating a New Item
-Simple to follow instructions and easy to follow directory at the end so you can add various types of entres (document, videos, etc). But I received "403: Write access denied"
+Simple to follow instructions and easy to follow directory at the end so you can add various types of entres (document, videos, etc). But I received `403: Write access denied` when I inputted commands and ran the commands as a script. 
 
 ![Creating New Item error](http://s13.postimg.org/u4ugxd5nb/creatingnewitem.png)
 
