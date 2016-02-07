@@ -4,7 +4,7 @@ First need to download libZotero, a Python module that allows you to interact wi
 
 From here, we can follow each step, but when we reached `for item in items: print item.bibContent` to get full bibliographic informatin we received an error that read:
 
-![unicode error]()
+![unicode error](https://drive.google.com/file/d/0ByTTKpFauSsSMHVMRzNyaFlmYjQ/view?usp=sharing)
 
 So, start back at the beginning, `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
 
