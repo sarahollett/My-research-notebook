@@ -6,7 +6,7 @@ From here, we can follow each step, but when we reached `for item in items: prin
 
 ![unicode error](http://s29.postimg.org/cj0pc6hyf/unicodeerror.jpg)
 
-So, start back at the beginning, `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
+After you follow the instructions for getting Unicode, start back at the beginning. Afte `from libZotero import zotero`, then tell Python the user/group code and API Key for the Zotero library you want to use.
 
 If we use the Programming Historian Library they advise, we get no input with the command, `items = zlib.fetchItemsTop({'limit': 5, 'content': 'json,bib,coins'})` 
 
