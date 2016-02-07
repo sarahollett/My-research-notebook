@@ -15,7 +15,7 @@ print 'Item Type: %s | Key: %s | Title: %s' % (item.itemType,item.itemKey, item.
 
 ![Programming Historian Zotero Library](http://s29.postimg.org/biiu60uhz/proghistzoterolib.jpg)
 
-However, by synching the informatin we inputted into Zotero Standalone Desktop in Pandoc Tutorial by going Actions>Preferences>Synch and entering our account information that can be created on the Zotero website.
+However, by synching the informatin we inputted into Zotero Standalone Desktop in Pandoc Tutorial by going Actions>Preferences>Sync and entering our account information that can be created on the Zotero website.
 
 ![synching account](http://s9.postimg.org/5cfpz3ldb/zoterosynch.jpg)
 
