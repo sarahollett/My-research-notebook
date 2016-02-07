@@ -1,0 +1,10 @@
+* markdown still being deveoped, there is resistance but it will come
+* BC stats using techinques we're using in class
+* topic modeling, 2013: SPSS Text Analytics (language?)
+* cost too high, looking for open source tools
+* "Graphics are instruments for reasoining about quantitative information"- Edward R. Tuft
+* 'R'
+* NY Public Library digital images just released 
+* trail of records with digital tools
+* story matter as much as data (knowing that they would reveal personal info)
+* 
