@@ -13,7 +13,7 @@ If we use the Programming Historian Library they advise, we get no input with th
 As well as we don't get the same metadata detail from command, `for item in items:
 print 'Item Type: %s | Key: %s | Title: %s' % (item.itemType,item.itemKey, item.title)`
 
-![Programming Historian Zotero Library](https://camo.githubusercontent.com/c53413ff1d1989a494a885fa0704613383b27747/68747470733a2f2f64726976652e676f6f676c652e636f6d2f66696c652f642f30427954544b70466175537353596b3935566c4e34565556665554412f766965773f7573703d73686172696e67)
+![Programming Historian Zotero Library](https://drive.google.com/file/d/0ByTTKpFauSsSYk95VlN4VUVfUTA/view?usp=sharing)
 
 However, by synching the informatin we inputted into Zotero Standalone Desktop in Pandoc Tutorial by going Actions>Preferences>Synch and entering our account information that can be created on the Zotero website.
 
